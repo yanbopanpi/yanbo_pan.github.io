@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Yanbo Pan"
   avatar           : "profile.png"
-  bio              : "Astrophysics Undergrad"
+  bio              : "Student (University of Michigan Ann-Arbor)"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "panpi@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

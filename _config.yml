@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yanbo Pan"
   avatar           : "Profile_.jpg"
-  bio              : "Student (University of Michigan Ann-Arbor)"
+  bio              : "Undergraduate Student (Junior)"
   location         : "Ann Arbor, MI"
   major            : "Astrophysics & Statistics"
-  # employer         :
+  employer         : "University of Michigan - Ann Arbor"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "panpi@umich.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   # instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   # lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/yanbo-pan-990999232/?locale=en_US"
+  LinkedIn         : "yanbo-pan-990999232"
   # orcid            : "http://orcid.org/yourorcidurl"
   # pinterest        :
   # soundcloud       :

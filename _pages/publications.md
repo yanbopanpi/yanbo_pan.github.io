@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Hi, welcome to my research website!
+# Hi, welcome to my research website! 👋
 Starting from my sophomore year, I have been involved with research projects in a wide range of astronomical fields, spanning from uncovering the faintest population of galaxies to "weather forecasting" on Hot Jupiters. 
 
 Thanks to my research experience, I have been working on different datasets, like [DELVE](https://datalab.noirlab.edu/delve/), [WOCS](https://www.astro.wisc.edu/research/research-areas/stars-stellar-systems/wocs/), and [JWST Cycle 2 data](https://www.stsci.edu/jwst/phase2-public/3969.pdf). I also learned some useful statistical tools for astrophysics along the way, like [unsupervised clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering) and [rejection / MCMC sampling](https://thejoker.readthedocs.io/en/latest/index.html).
@@ -15,23 +15,30 @@ I am interested in continuing my research career in graduate school. I enjoy usi
 If you are interested in learning about my research or simply talking about research in general, please don't hesitate to email me (panpi@umich.edu). 
 
 
-## Alternative evolutionary pathway for stellar population by orbit modeling
+
+## Alternative evolutionary pathway for stellar population by orbit modeling ⭐
 ### Started 05/2023
   We utilized a custom Monte Carlo (theJoker) sampler, initially created for APOGEE’s sparsely and noisily measured radial velocities, in our examination of the WIYN Open Cluster Survey (WOCS). After utilizing rejection and MCMC sampling, we scrutinized single-lined binary orbits in M67 and NGC 188. Our objective was to evaluate theJoker’s efficacy on binaries with ample radial velocity data (RVD) and investigate the possibility of devising observing plans that would enable us to estimate binary orbital solutions with fewer RVD and better understand the alternative evolutionary tracks for binary stars. 
+  
   Through this research experience, I learned useful statistical methods, like rejection and MCMC sampling. Exposed to time-series data for the first time, I designed a custom pipeline that allows statistical comparison between our results and previous scientific results done by [Aaron M. Geller](https://arxiv.org/abs/2101.07883). I also become more familiar with using cloud computing and virtual machines. 
+  
   For our future work, we will fit more binary solutions for WD-MS binaries, while improving the pipeline to better suit observation plans and reduce bias our priors might introduce. 
 
-## Ultra-faint dwarf satellite search 
+## Ultra-faint dwarf satellite search 🌌
 ### Started 01/2023
   By analyzing the stellar spatial distribution, we try to search for potential ultra-faint dwarf (UFD) galaxies of M31 by examining stellar overdensities within the DELVE survey. We attempt to search for overdensities for horizontal branch (HB) and red giant branch stars (RGB) using Density-Based Spatial Clustering of Applications with Noise (DBSCAN). We first focused on Pegasus IV dwarf galaxy and its stellar population as a guide for designing our overdensity search pipeline. With the detected overdensities on the color-magnitude diagram, we also explore the stellar overdensities regarding their spatial distribution. 
-	After devising the pipeline with DBSCAN, we also tried using HDBSCAN and OPTICS to test which unsupervised machine learning method yielded the best result for the UFD search. Finally, OPTICS is chosen since it recovers several UFDs of M31 with the least number of false positives. During this project, we also explore the star-galaxy separation criteria in the DELVE survey. The tip of the red giant branch selection criteria is modified based on the star-galaxy separation magnitude limit. 
-	Through this experience, I learned about unsupervised machine learning algorithms by dealing with large survey data. I also have a taste of astrostatistics and design my own SQL query throughout this project. 
-	To further this project, I hope to introduce other types of stars (MS, BSS) into the selection criteria. Also, data from larger areas of the sky will be explored for those “missing satellites”. 
+  
+  After devising the pipeline with DBSCAN, we also tried using HDBSCAN and OPTICS to test which unsupervised machine learning method yielded the best result for the UFD search. Finally, OPTICS is chosen since it recovers several UFDs of M31 with the least number of false positives. During this project, we also explore the star-galaxy separation criteria in the DELVE survey. The tip of the red giant branch selection criteria is modified based on the star-galaxy separation magnitude limit. 
+  
+  Through this experience, I learned about unsupervised machine learning algorithms by dealing with large survey data. I also have a taste of astrostatistics and design my own SQL query throughout this project. 
 
-## Hot Jupiter atmospheric modeling
+  To further this project, I hope to introduce other types of stars (MS, BSS) into the selection criteria. Also, data from larger areas of the sky will be explored for those “missing satellites”. 
+
+## Hot Jupiter atmospheric modeling 🪐
 ### Started 01/2024
   The Multidimensional Atmosphere of a Hot Jupiter. We recently observed the hot Jupiter WASP-52b with JWST as part of a Cycle 2 Program aiming to measure differences between the east and west sides of the planet. The student will join our team’s efforts to measure the chemical composition, temperature, and cloud properties on each side of the planet.
-	Results coming soon ...
+  
+  Results coming soon ...
 
 
 

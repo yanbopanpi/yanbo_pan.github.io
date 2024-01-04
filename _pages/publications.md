@@ -28,6 +28,10 @@ If you are interested in learning about my research or simply talking about rese
 	Through this experience, I learned about unsupervised machine learning algorithms by dealing with large survey data. I also have a taste of astrostatistics and design my own SQL query throughout this project. 
 	To further this project, I hope to introduce other types of stars (MS, BSS) into the selection criteria. Also, data from larger areas of the sky will be explored for those “missing satellites”. 
 
+## Hot Jupiter atmospheric modeling
+### Started 01/2024
+  The Multidimensional Atmosphere of a Hot Jupiter. We recently observed the hot Jupiter WASP-52b with JWST as part of a Cycle 2 Program aiming to measure differences between the east and west sides of the planet. The student will join our team’s efforts to measure the chemical composition, temperature, and cloud properties on each side of the planet.
+	Results coming soon ...
 
 
 

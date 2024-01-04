@@ -21,6 +21,12 @@ If you are interested in learning about my research or simply talking about rese
   Through this research experience, I learned useful statistical methods, like rejection and MCMC sampling. Exposed to time-series data for the first time, I designed a custom pipeline that allows statistical comparison between our results and previous scientific results done by [Aaron M. Geller](https://arxiv.org/abs/2101.07883). I also become more familiar with using cloud computing and virtual machines. 
   For our future work, we will fit more binary solutions for WD-MS binaries, while improving the pipeline to better suit observation plans and reduce bias our priors might introduce. 
 
+## Ultra-faint dwarf satellite search 
+### Started 01/2023
+  By analyzing the stellar spatial distribution, we try to search for potential ultra-faint dwarf (UFD) galaxies of M31 by examining stellar overdensities within the DELVE survey. We attempt to search for overdensities for horizontal branch (HB) and red giant branch stars (RGB) using Density-Based Spatial Clustering of Applications with Noise (DBSCAN). We first focused on Pegasus IV dwarf galaxy and its stellar population as a guide for designing our overdensity search pipeline. With the detected overdensities on the color-magnitude diagram, we also explore the stellar overdensities regarding their spatial distribution. 
+	After devising the pipeline with DBSCAN, we also tried using HDBSCAN and OPTICS to test which unsupervised machine learning method yielded the best result for the UFD search. Finally, OPTICS is chosen since it recovers several UFDs of M31 with the least number of false positives. During this project, we also explore the star-galaxy separation criteria in the DELVE survey. The tip of the red giant branch selection criteria is modified based on the star-galaxy separation magnitude limit. 
+	Through this experience, I learned about unsupervised machine learning algorithms by dealing with large survey data. I also have a taste of astrostatistics and design my own SQL query throughout this project. 
+	To further this project, I hope to introduce other types of stars (MS, BSS) into the selection criteria. Also, data from larger areas of the sky will be explored for those “missing satellites”. 
 
 
 

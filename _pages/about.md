@@ -17,6 +17,7 @@ Hi, I'm Yanbo Pan, an astrophysics and statistics enthusiast currently studying 
 
 
 ## Personal Life:
-Outside my research life, I enjoy distance running and playing table tennis. If the weather is good, which is kind of rare in Michigan, I will run through [the Arb](https://mbgna.umich.edu/nichols-arboretum/) after I finish my class. I also enjoy going to the [State Theatre](https://michtheater.org/) and enjoying movies and shows with friends.  ![running pics](/images/marathon.jpg)
+Outside my research life, I enjoy distance running and playing table tennis. If the weather is good, which is kind of rare in Michigan, I will run through [the Arb](https://mbgna.umich.edu/nichols-arboretum/) after I finish my class. I also enjoy going to the [State Theatre](https://michtheater.org/) and enjoying movies and shows with friends.  ![running pics](images/marathon.jpg)
+
 
 

@@ -8,7 +8,7 @@ author_profile: true
 # Science is never done alone.
 
 I want to take this opportunity to thank all my advisors and mentors for motivating me to become a better scientist.
-Bob             |  Eirc
+Bob             |  Eric
 :-------------------------:|:-------------------------:
 ![Bob](https://yanbopanpi.github.io/yanbo_pan.github.io//images/UW_memory.jpg)  |  ![Eric](https://yanbopanpi.github.io/yanbo_pan.github.io//images/Bell.jpg)
 <!---

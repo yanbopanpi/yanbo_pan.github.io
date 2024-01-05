@@ -33,7 +33,7 @@ For our future work, we will fit more binary solutions for WD-MS binaries, while
 
 ## Ultra-faint dwarf satellite search 🌌
 ### Started 01/2023
-![AndXXIX](https://yanbopanpi.github.io/yanbo_pan.github.io//images/AndXXIX.png){: .align-right width="300px"}
+![AndXXIX](https://yanbopanpi.github.io/yanbo_pan.github.io//images/AndXXIX.png){: .align-right width="270px"}
 By analyzing the stellar spatial distribution, we try to search for potential ultra-faint dwarf (UFD) galaxies of M31 by examining stellar overdensities within the DELVE survey. We attempt to search for overdensities for horizontal branch (HB) and red giant branch stars (RGB) using Density-Based Spatial Clustering of Applications with Noise (DBSCAN). We first focused on Pegasus IV dwarf galaxy and its stellar population as a guide for designing our overdensity search pipeline. With the detected overdensities on the color-magnitude diagram, we also explore the stellar overdensities regarding their spatial distribution. 
   
 After devising the pipeline with DBSCAN, we also tried using HDBSCAN and OPTICS to test which unsupervised machine learning method yielded the best result for the UFD search. Finally, OPTICS is chosen since it recovers several UFDs of M31 with the least number of false positives. During this project, we also explore the star-galaxy separation criteria in the DELVE survey. The tip of the red giant branch selection criteria is modified based on the star-galaxy separation magnitude limit. 
@@ -44,8 +44,8 @@ To further this project, I hope to introduce other types of stars (MS, BSS) into
 
 ## Hot Jupiter atmospheric modeling 🪐
 ### Started 01/2024
-![JWST](https://yanbopanpi.github.io/yanbo_pan.github.io//images/JWST.jpg){: .align-right width="300px"}
-*image credit: NASA/JPL-Caltech*
+![JWST](https://yanbopanpi.github.io/yanbo_pan.github.io//images/JWST.jpg){: .align-left width="300px"}
+*image credit: NASA/JPL-Caltech*\
 The Multidimensional Atmosphere of a Hot Jupiter. We recently observed the hot Jupiter WASP-52b with JWST as part of a Cycle 2 Program aiming to measure differences between the east and west sides of the planet. The student will join our team’s efforts to measure the chemical composition, temperature, and cloud properties on each side of the planet.
   
 Results coming soon ...

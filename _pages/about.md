@@ -15,10 +15,13 @@ Hi, I'm Yanbo Pan, an astrophysics and statistics enthusiast currently studying 
 - Alternative evolution pathways for binary stars by orbit modeling
 - Hot Jupiter atmospheric retrieval
 
+  [More details here](https://yanbopanpi.github.io/yanbo_pan.github.io//publications/)
 
-## Personal Life:
+
+## Personal:
 ![running pics](images/marathon.jpg){: .align-right width="350px"}
-Outside my research life, I enjoy distance running and playing table tennis. If the weather is good, which is kind of rare in Michigan, I will run through [the Arb](https://mbgna.umich.edu/nichols-arboretum/) after I finish my class. I also enjoy going to the [State Theatre](https://michtheater.org/) and enjoying movies and shows with friends.  
+I am from [Ningbo](https://en.wikipedia.org/wiki/Ningbo), China. I first went to the University of Wisconsin-Madison 🦡 for my first year. Then, I transferred to the University of Michigan-Ann Arbor to finish my undergraduate studies.\
+Outside my research life, I enjoy distance running and playing table tennis. If the weather is good, which is rare in Michigan, I will run through [the Arb](https://mbgna.umich.edu/nichols-arboretum/) after I finish all my classes. I also enjoy going to the [State Theatre](https://michtheater.org/) and enjoying movies and shows with friends.  
 
 
 

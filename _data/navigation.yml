@@ -20,3 +20,6 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
+  - title:"Acknowledgment"
+    url: /acknowledgment/

@@ -49,7 +49,10 @@ To further this project, I hope to introduce other types of stars (MS, BSS) into
 
 ## Hot Jupiter multi-dimensional atmospheric modeling 🪐
 ### Started 01/2024
-We recently observed the hot Jupiter WASP-52b with JWST as part of a Cycle 2 Program aiming to measure differences between the east and west sides of the planet. The student will join our team’s efforts to measure the chemical composition, temperature, and cloud properties on each side of the planet.
+This is the project I am going to start in this 2024 winter semester. I do not have any immediate results yet, but I can share my research plan. 
+
+We recently observed the hot Jupiter WASP-52b with JWST as part of a Cycle 2 Program aiming to measure differences between the east and west sides of the planet. We will be analyzing the chemical composition, temperature, and cloud properties on each side of the planet. 
+
 
 ![JWST](https://yanbopanpi.github.io/yanbo_pan.github.io//images/JWST.jpg){: .align-left width="300px"}
 *image credit: NASA/JPL-Caltech*

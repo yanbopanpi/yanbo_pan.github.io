@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /files/Comprehensive Resume - Yanbo Pan .pdf
     
-  - title: "Acknowledgment"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
 
   - title: "Acknowledgment"
     url: /acknowledgment/

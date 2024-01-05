@@ -21,5 +21,5 @@ To my friends and peers, thank you for preventing me from becoming a nerd.
 
 Thanks to *academicpages* for offering such a beautiful website template.
 
-![Bob](https://yanbopanpi.github.io/yanbo_pan.github.io//images/UW_memory.jpg){: .align-left width="480px"}
+![Bob](https://yanbopanpi.github.io/yanbo_pan.github.io//images/UW_memory.jpg){: .align-left width="420px"}
 ![Eric](https://yanbopanpi.github.io/yanbo_pan.github.io//images/Bell.jpg){: .align-right width="480px"}

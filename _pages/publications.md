@@ -18,7 +18,7 @@ If you are interested in learning about my research or simply talking about rese
 
 ## Alternative evolutionary pathway for stellar population by orbit modeling ⭐
 ### Started 05/2023
-![BSS_HR](/images/BSS_HR.png){: .align-right width="400px"}
+![BSS_HR](/images/BSS_HR.png)
 We utilized a custom Monte Carlo (theJoker) sampler, initially created for APOGEE’s sparsely and noisily measured radial velocities, in our examination of the WIYN Open Cluster Survey (WOCS). After utilizing rejection and MCMC sampling, we scrutinized single-lined binary orbits in M67 and NGC 188. Our objective was to evaluate theJoker’s efficacy on binaries with ample radial velocity data (RVD) and investigate the possibility of devising observing plans that would enable us to estimate binary orbital solutions with fewer RVD and better understand the alternative evolutionary tracks for binary stars. 
   
 Through this research experience, I learned useful statistical methods, like rejection and MCMC sampling. Exposed to time-series data for the first time, I designed a custom pipeline that allows statistical comparison between our results and previous scientific results done by [Aaron M. Geller](https://arxiv.org/abs/2101.07883). I also become more familiar with using cloud computing and virtual machines. 
@@ -30,7 +30,7 @@ For our future work, we will fit more binary solutions for WD-MS binaries, while
 
 ## Ultra-faint dwarf satellite search 🌌
 ### Started 01/2023
-![AndXXIX](/images/AndXXIX.png){: .align-right width="300px"}
+![AndXXIX](/images/AndXXIX.png)
 By analyzing the stellar spatial distribution, we try to search for potential ultra-faint dwarf (UFD) galaxies of M31 by examining stellar overdensities within the DELVE survey. We attempt to search for overdensities for horizontal branch (HB) and red giant branch stars (RGB) using Density-Based Spatial Clustering of Applications with Noise (DBSCAN). We first focused on Pegasus IV dwarf galaxy and its stellar population as a guide for designing our overdensity search pipeline. With the detected overdensities on the color-magnitude diagram, we also explore the stellar overdensities regarding their spatial distribution. 
   
 After devising the pipeline with DBSCAN, we also tried using HDBSCAN and OPTICS to test which unsupervised machine learning method yielded the best result for the UFD search. Finally, OPTICS is chosen since it recovers several UFDs of M31 with the least number of false positives. During this project, we also explore the star-galaxy separation criteria in the DELVE survey. The tip of the red giant branch selection criteria is modified based on the star-galaxy separation magnitude limit. 
@@ -41,7 +41,7 @@ To further this project, I hope to introduce other types of stars (MS, BSS) into
 
 ## Hot Jupiter atmospheric modeling 🪐
 ### Started 01/2024
-![JWST](/images/JWST.jpg){: .align-right width="400px"}
+![JWST](/images/JWST.jpg)
 The Multidimensional Atmosphere of a Hot Jupiter. We recently observed the hot Jupiter WASP-52b with JWST as part of a Cycle 2 Program aiming to measure differences between the east and west sides of the planet. The student will join our team’s efforts to measure the chemical composition, temperature, and cloud properties on each side of the planet.
   
 Results coming soon ...

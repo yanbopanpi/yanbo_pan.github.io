@@ -23,7 +23,6 @@ If you are interested in learning about my research or simply talking about rese
   Through this research experience, I learned useful statistical methods, like rejection and MCMC sampling. Exposed to time-series data for the first time, I designed a custom pipeline that allows statistical comparison between our results and previous scientific results done by [Aaron M. Geller](https://arxiv.org/abs/2101.07883). I also become more familiar with using cloud computing and virtual machines. 
   
   For our future work, we will fit more binary solutions for WD-MS binaries, while improving the pipeline to better suit observation plans and reduce bias our priors might introduce. 
-![running pics](images/marathon.jpg){: .align-right width="350px"}
 ![binary_demo](images/binary_demo.jpg){: style="height:83px"}
 
 

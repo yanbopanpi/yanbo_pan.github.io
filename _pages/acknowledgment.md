@@ -9,11 +9,14 @@ author_profile: true
 
 I want to take this opportunity to thank all my teachers, advisors, and mentors for motivating me to become a better scientist.
 
-![Bob](https://yanbopanpi.github.io/yanbo_pan.github.io//images/UW_memory.jpg)    ![Eric](https://yanbopanpi.github.io/yanbo_pan.github.io//images/Bell.jpg)
 <!---
+![Bob](https://yanbopanpi.github.io/yanbo_pan.github.io//images/UW_memory.jpg)    ![Eric](https://yanbopanpi.github.io/yanbo_pan.github.io//images/Bell.jpg)
 ![Bob](https://yanbopanpi.github.io/yanbo_pan.github.io//images/UW_memory.jpg){: .align-left width="480px"}
 ![Eric](https://yanbopanpi.github.io/yanbo_pan.github.io//images/Bell.jpg){: .align-right width="480px"}\
 -->
+
+![Bob](https://yanbopanpi.github.io/yanbo_pan.github.io//images/UW_memory.jpg){: .align-left width="480px"}
+![Eric](https://yanbopanpi.github.io/yanbo_pan.github.io//images/Bell.jpg){: .align-right width="480px"}
 
 I am also deeply thankful to my parents, who have always supported me throughout my life. 
 

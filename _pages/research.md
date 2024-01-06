@@ -20,7 +20,8 @@ If you are interested in learning about my research or simply talking about rese
 
 
 ## Alternative evolutionary pathway for stellar population by orbit modeling ⭐
-### Started 05/2023
+### Advisor: [Robert Mathieu](https://mywcerlegacy.wceruw.org/Content/CVs/824-MathieuRobert.pdf)
+#### Started 05/2023
 ![BSS_HR](https://yanbopanpi.github.io/yanbo_pan.github.io//images/BSS_HR.png){: .align-right width="400px"}
 We utilized a custom Monte Carlo (theJoker) sampler, initially created for APOGEE’s sparsely and noisily measured radial velocities, in our examination of the WIYN Open Cluster Survey (WOCS). After utilizing rejection and MCMC sampling, we scrutinized single-lined binary orbits in M67 and NGC 188. Our objective was to evaluate theJoker’s efficacy on binaries with ample radial velocity data (RVD) and investigate the possibility of devising observing plans that would enable us to estimate binary orbital solutions with fewer RVD and better understand the alternative evolutionary tracks for binary stars. 
   
@@ -33,7 +34,8 @@ For our future work, we will fit more binary solutions for WD-MS binaries, while
 
 
 ## Ultra-faint dwarf satellite search 🌌
-### Started 01/2023
+### Advisor: [Eric Bell](https://sites.lsa.umich.edu/ericbell/)
+#### Started 01/2023
 ![AndXXIX](https://yanbopanpi.github.io/yanbo_pan.github.io//images/AndXXIX.png){: .align-right width="320px"}
 By analyzing the stellar spatial distribution, we try to search for potential ultra-faint dwarf (UFD) galaxies of M31 by examining stellar overdensities within the DELVE survey. We attempt to search for overdensities for horizontal branch (HB) and red giant branch stars (RGB) using Density-Based Spatial Clustering of Applications with Noise (DBSCAN). We first focused on Pegasus IV dwarf galaxy and its stellar population as a guide for designing our overdensity search pipeline. With the detected overdensities on the color-magnitude diagram, we also explore the stellar overdensities regarding their spatial distribution. 
   
@@ -48,7 +50,8 @@ To further this project, I hope to introduce other types of stars (MS, BSS) into
 
 
 ## Hot Jupiter multi-dimensional atmospheric modeling 🪐
-### Started 01/2024
+### Advisor: [Ryan MacDonald](https://distantworlds.space/)
+#### Started 01/2024
 This is the project I am going to start in this 2024 winter semester. I do not have any immediate results yet, but I can share my research plan. 
 
 We recently observed the hot Jupiter WASP-52b with JWST as part of a Cycle 2 Program aiming to measure differences between the east and west sides of the planet. We will be analyzing the chemical composition, temperature, and cloud properties on each side of the planet. 

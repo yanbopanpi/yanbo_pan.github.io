@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "潘彦博"
 author_profile: true
 redirect_from: 
   - /md/

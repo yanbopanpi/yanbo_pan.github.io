@@ -61,6 +61,8 @@ The science goals of this project are:
 
 ![JWST](https://yanbopanpi.github.io/yanbo_pan.github.io//images/JWST.jpg){: .align-left width="300px"}
 *image credit: NASA/JPL-Caltech*
+
+Please check the awesome [exoplanet travel bureau](https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/) graphics 
   
 Results coming soon ...
 

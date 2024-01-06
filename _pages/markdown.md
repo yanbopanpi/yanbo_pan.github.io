@@ -14,6 +14,7 @@ redirect_from:
 如果您对我的研究感兴趣，欢迎随时给我发电子邮件（panpi@umich.edu）。
 
 科研详情请[点击此处](https://yanbopanpi.github.io/yanbo_pan.github.io//publications/)
+
 个人简历请[点击此处](https://yanbopanpi.github.io/yanbo_pan.github.io//files/Comprehensive%20Resume%20-%20Yanbo%20Pan%20.pdf)
 
 <!---

@@ -19,7 +19,7 @@ I am also deeply thankful to my parents, who have always supported me throughout
 
 To my friends and peers, thank you for preventing me from becoming a nerd.
 
-Thanks to *academicpages* for offering such a beautiful website template.
+Thanks to [academicpages](https://github.com/academicpages/academicpages.github.io) for offering such a beautiful website template.
 
 ![Bob](https://yanbopanpi.github.io/yanbo_pan.github.io//images/UW_memory.jpg){: .align-left width="420px"}
 ![Eric](https://yanbopanpi.github.io/yanbo_pan.github.io//images/Bell.jpg){: .align-right width="480px"}

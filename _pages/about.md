@@ -16,7 +16,6 @@ Greetings, I'm Yanbo Pan, an astrophysics and statistics enthusiast currently st
 - Hot Jupiter atmospheric retrieval
 
   [Click here](https://yanbopanpi.github.io/yanbo_pan.github.io//publications/) to view my research in detail
-  [My research talks](https://yanbopanpi.github.io/yanbo_pan.github.io//talks/)
 
 
 ## Personal:

@@ -37,6 +37,7 @@ For our future work, we will fit more binary solutions for WD-MS binaries, while
 ### Advisor: [Eric Bell](https://sites.lsa.umich.edu/ericbell/)
 ### Started 01/2023
 ![AndXXIX](https://yanbopanpi.github.io/yanbo_pan.github.io//images/AndXXIX.png){: .align-right width="300px"}
+
 ![star_galaxy](https://yanbopanpi.github.io/yanbo_pan.github.io//images/star_galaxy_classification.png){: .align-right width="350px"}
 By analyzing the stellar spatial distribution, we try to search for potential ultra-faint dwarf (UFD) galaxies of M31 by examining stellar overdensities within the DELVE survey. We attempt to search for overdensities for horizontal branch (HB) and red giant branch stars (RGB) using Density-Based Spatial Clustering of Applications with Noise (DBSCAN). We first focused on Pegasus IV dwarf galaxy and its stellar population as a guide for designing our overdensity search pipeline. With the detected overdensities on the color-magnitude diagram, we also explore the stellar overdensities regarding their spatial distribution. 
   

@@ -15,7 +15,7 @@ redirect_from:
 
 科研详情请[点击此处](https://yanbopanpi.github.io/yanbo_pan.github.io//publications/)
 \
-个人简历请[点击此处](https://yanbopanpi.github.io/yanbo_pan.github.io//files/Comprehensive%20Resume%20-%20Yanbo%20Pan%20.pdf)
+个人简历请[点击此处](https://yanbopanpi.github.io/yanbo_pan.github.io//files/Yanbo_Pan_Resume.pdf)
 
 <!---
 ## Locations of key files/directories

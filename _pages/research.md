@@ -53,7 +53,6 @@ To further this project, I hope to introduce other types of stars (MS, BSS) into
 ## Hot Jupiter multi-dimensional atmospheric modeling 🪐
 ### Advisor: [Ryan MacDonald](https://distantworlds.space/)
 ### Started 01/2024
-This is the project I am going to start in this 2024 winter semester. I do not have any immediate results yet, but I can share my research plan. 
 
 We recently observed the hot Jupiter WASP-52b with JWST as part of a Cycle 2 Program aiming to measure differences between the east and west sides of the planet. We will be analyzing the chemical composition, temperature, and cloud properties on each side of the planet. 
 
@@ -62,13 +61,15 @@ The science goals of this project are:
 2. Identify whether a 2D atmospheric model is preferred over a 1D model, and if so, quantify differences between the morning and evening terminators (west and east). 
 3. Investigate and correct for the influence of unocculted starspots on WASP-52b’s JWST transmission spectrum.
 
+Stellar inhomogeneities (unocculted starspots or faculae) are believed to influence exoplanet transmission spectroscopy. Therefore, modeling and retrieving stellar features is crucial for understanding the exoplanet’s atmospheric properties. In this study, we apply atmospheric retrievals on the optical to infrared (0.6–2.7 μm) transmission spectrum of the hot Jupiter WASP-52b observed with JWST NIRISS/SOSS instruments. Our objective is to measure its atmospheric chemical composition and study the influence of unocculted stellar features on the transmission spectrum using POSEIDON (a Bayesian atmospheric retrieval algorithm). Since WASP-52b presents significant stellar features and starspot crossing events during the transit, we introduce unocculted starspot or facula (fraction, temperature, and surface gravity as free parameters) in the retrieval process. We will present our retrieval result on atmospheric composition and stellar feature estimates. This work allows us to establish constraints on WASP-52b’s planetary atmosphere and the stellar feature of its host star.
+
 
 ![JWST](https://yanbopanpi.github.io/yanbo_pan.github.io//images/JWST.jpg){: .align-left width="300px"}
 *image credit: NASA/JPL-Caltech*
 
 Please check the awesome [exoplanet travel bureau](https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/) graphics 
   
-Results coming soon ...
+
 
 
 

@@ -35,8 +35,8 @@ Stellar inhomogeneities (unocculted starspots or faculae) are believed to influe
 
 Please check the awesome [exoplanet travel bureau](https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/) graphics 
 ![JWST](https://yanbopanpi.github.io/yanbo_pan.github.io//images/JWST.jpg){: .align-left width="300px"}
-*image credit: NASA/JPL-Caltech*
-\
+*image credit: NASA/JPL-Caltech*  
+
 
 
 ## Alternative evolutionary pathway for stellar population by orbit modeling ⭐

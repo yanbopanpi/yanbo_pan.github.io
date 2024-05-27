@@ -7,7 +7,7 @@ author_profile: true
 
 # Science is never done alone.
 
-I want to take this opportunity to thank all my teachers, advisors, and mentors for guiding me to find my own path in scientific research. Science is fun, but doing science together is better. 
+I want to take this opportunity to thank all my teachers, advisors, and mentors (official and unofficial) for guiding me to find my own path in scientific research. Science is fun, but doing science together is better. 
 
 <!---
 ![Bob](https://yanbopanpi.github.io/yanbo_pan.github.io//images/UW_memory.jpg)    ![Eric](https://yanbopanpi.github.io/yanbo_pan.github.io//images/Bell.jpg)

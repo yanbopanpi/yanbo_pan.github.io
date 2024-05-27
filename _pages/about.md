@@ -15,7 +15,6 @@ Greetings, I'm Yanbo Pan, an astrophysics and statistics enthusiast currently st
 - Alternative evolution pathways for binary stars by orbit modeling
 - Hot Jupiter atmospheric characterization and retrieval
 
-
   [Click here](https://yanbopanpi.github.io/yanbo_pan.github.io//publications/) to view my research in detail
 
 

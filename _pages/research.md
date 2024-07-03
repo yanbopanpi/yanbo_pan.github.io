@@ -44,7 +44,7 @@ Please check the awesome [exoplanet travel bureau](https://exoplanets.nasa.gov/a
 ## Alternative evolutionary pathway for stellar population by orbit modeling ⭐
 ### Advisor: [Robert Mathieu](https://www.astro.wisc.edu/?uw_staff=mathieu-robert)
 ### Started 05/2023 - Present
-### Astrobites(https://astrobites.org/2024/07/03/ur-blue-stars-that-should-not-exist/)
+### [Astrobites](https://astrobites.org/2024/07/03/ur-blue-stars-that-should-not-exist/)
 ![BSS_HR](https://yanbopanpi.github.io/yanbo_pan.github.io//images/BSS_HR.png){: .align-right width="400px"}
 <!--- old abstract commented out
 We utilized a custom Monte Carlo (theJoker) sampler, initially created for APOGEE’s sparsely and noisily measured radial velocities, in our examination of the WIYN Open Cluster Survey (WOCS). After utilizing rejection and MCMC sampling, we scrutinized single-lined binary orbits in M67 and NGC 188. Our objective was to evaluate theJoker’s efficacy on binaries with ample radial velocity data (RVD) and investigate the possibility of devising observing plans that would enable us to estimate binary orbital solutions with fewer RVD and better understand the alternative evolutionary tracks for binary stars. % >new abstract below

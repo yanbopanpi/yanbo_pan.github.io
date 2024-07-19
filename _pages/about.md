@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Greetings, I'm Yanbo Pan, an astrophysics and statistics enthusiast currently studying at the University of Michigan Ann-Arbor. My journey so far has led me to explore the universe and develop a strong foundation in scientific thinking. 🌌⭐🪐
+Greetings, I'm Yanbo Pan, an astrophysics and statistics undergraduate currently studying at the University of Michigan Ann-Arbor. My journey so far has led me to explore the universe and develop a strong foundation in scientific thinking. 🌌⭐🪐
 
 ## Research Interests:
 - Local group ultra-faint dwarf (UFD) galaxies search and characterization
 - Alternative evolution pathways for binary stars by orbit modeling
 - Hot Jupiter atmospheric characterization and retrieval
+- Bayesian statistics applications on Astrophysics
 
   [Click here](https://yanbopanpi.github.io/yanbo_pan.github.io//publications/) to view my research in detail
 

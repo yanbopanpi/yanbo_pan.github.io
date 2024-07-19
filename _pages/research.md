@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 # Welcome to my research website! 👋
-Starting from my sophomore year, I have been involved with research projects in a variety of astronomical fields, spanning from mining the faintest population of galaxies to the atmosphere characterization on Hot Jupiters. 
+Starting from my sophomore year, I have been involved with research projects in a variety of astronomical fields, spanning from mining the faintest galaxies to the atmosphere characterization on Hot Jupiters. 
 
 Thanks to my research experience, I have been working on various datasets, like [DELVE](https://datalab.noirlab.edu/delve/), [WOCS](https://www.astro.wisc.edu/research/research-areas/stars-stellar-systems/wocs/), and [JWST Cycle 2 data](https://www.stsci.edu/jwst/phase2-public/3969.pdf). I also learned some useful statistical tools for astrophysics along the way, like [unsupervised clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering), [rejection/MCMC sampling](https://thejoker.readthedocs.io/en/latest/index.html), and [atmospheric retrievals with nested sampling](https://poseidon-retrievals.readthedocs.io/en/latest/index.html#).
 
-I am interested in continuing my research career in graduate school. I enjoy using modern statistical tools to solve astrophysical problems. I have been working on ultra-faint dwarf galaxies (UFD), blue straggler stars (BSS), and hot Jupiters to some degree, but I would love to explore more astronomical fields, like black holes, AGN, ISM, quasars, etc. 
+I am interested in continuing my research career in graduate school. I enjoy using modern statistical tools to solve astrophysical problems. I have been working on ultra-faint dwarf galaxies (UFD), blue straggler stars (BSS), and hot Jupiters, but I would love to explore more astronomical fields, like AGN, ISM, quasars, etc. 
 
-If you are interested in learning about my research or simply talking about science in general, please don't hesitate to email me (panpi@umich.edu). 
+If you are interested in learning about my research or simply chatting about science in general, please don't hesitate to email me (panpi@umich.edu). 
 
 
 
@@ -27,7 +27,7 @@ We recently observed the hot Jupiter WASP-52b with JWST as part of a Cycle 2 Pro
 
 The science goals of this project are:
 1. Measure the chemical composition of WASP-52b’s atmosphere using a Bayesian atmospheric retrieval code. (**ongoing**)
-2. Identify whether a 2D atmospheric model is preferred over a 1D model, and if so, quantify differences between the morning and evening terminators (west and east). (**future**)
+2. Identify whether a 2D atmospheric model is preferred over a 1D model, and if so, quantify differences between the morning and evening terminators (west and east). (**ongoing**)
 3. Investigate and correct for the influence of unocculted starspots on WASP-52b’s JWST transmission spectrum. (**ongoing**)
 
 Stellar inhomogeneities (unocculted starspots or faculae) are believed to influence exoplanet transmission spectroscopy. Therefore, modeling and retrieving stellar features is crucial for understanding the exoplanet’s atmospheric properties. In this study, we apply atmospheric retrievals on the optical to infrared (0.6–2.7 μm) transmission spectrum of the hot Jupiter WASP-52b observed with JWST NIRISS/SOSS instruments. Our objective is to measure its atmospheric chemical composition and study the influence of unocculted stellar features on the transmission spectrum using POSEIDON (a Bayesian atmospheric retrieval algorithm). Since WASP-52b presents significant stellar features and starspot crossing events during the transit, we introduce unocculted starspot or facula (fraction, temperature, and surface gravity as free parameters) in the retrieval process. We will present our retrieval result on atmospheric composition and stellar feature estimates. This work allows us to establish constraints on WASP-52b’s planetary atmosphere and the stellar feature of its host star. _Result plots coming soon_.
@@ -46,9 +46,7 @@ Please check the awesome [exoplanet travel bureau](https://exoplanets.nasa.gov/a
 ### Started 05/2023 - Present
 ### [Astrobites](https://astrobites.org/2024/07/03/ur-blue-stars-that-should-not-exist/)
 ![BSS_HR](https://yanbopanpi.github.io/yanbo_pan.github.io//images/BSS_HR.png){: .align-right width="400px"}
-<!--- old abstract commented out
-We utilized a custom Monte Carlo (theJoker) sampler, initially created for APOGEE’s sparsely and noisily measured radial velocities, in our examination of the WIYN Open Cluster Survey (WOCS). After utilizing rejection and MCMC sampling, we scrutinized single-lined binary orbits in M67 and NGC 188. Our objective was to evaluate theJoker’s efficacy on binaries with ample radial velocity data (RVD) and investigate the possibility of devising observing plans that would enable us to estimate binary orbital solutions with fewer RVD and better understand the alternative evolutionary tracks for binary stars. % >new abstract below
-!--->
+
 
 Blue Straggler Stars (BSS) are believed to have originated from binary star interactions. Therefore, modeling binary orbits is crucial for understanding their formation and evolution. In this study, we applied The Joker (a Monte Carlo rejection sampler) to model binary orbits in the WIYN Open Cluster Survey (WOCS). Our objective was to evaluate The Joker’s efficacy on binaries with ample radial-velocity data (RVD). Exploring the potential usage of The Joker, designed for sparsely measured radial velocities, we applied it to known single-lined binary orbits in M67 and NGC 188. With 70+ binary systems, we compared our Joker orbital parameters among binaries having a diverse array of period-eccentricity combinations (Geller et al. 2021). We found that 5-7 RVD start to meaningfully constrain orbital parameters, and 8-10 RVD are required for unimodal period solutions with eccentricities converging to previous studies’ solutions. Additionally, we explored the possibility of devising observing plans having limited prior measurements with The Joker predicting possible periastron approach times to constrain eccentricity. This work enables us to estimate binary orbital solutions with fewer RVD and to enhance our understanding of the alternative evolutionary tracks of binary systems.
   
@@ -87,6 +85,9 @@ To further this project, I hope to introduce other types of stars (MS, BSS) into
 ## Kinematics of ultra-faint dwarf galaxies 🌌
 ### Advisor: [Marla Geha](http://www.astro.yale.edu/mgeha/)
 ### 05/2024 - Present
+
+
+In this study, we re-analyze the kinematic data from ultra-faint galaxy Pegasus IV and Pegasus III. These two galaxies are satellites of the Milky Way and are among the faintest known stellar systems. Using the Keck DEIMOS spectrograph, we analyze the spectrum of individual stars and deliberate select members stars of these two galaxies. We then obtain velocity dispersion, masses estimates, and mass to light ratios of these two galaxies, and compare these information with other similarly faint systems. 
 
 Results coming soon
 

@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 # Welcome to my research website! 👋
-Starting from my sophomore year, I have been involved with research projects in a variety of astronomical fields, spanning from mining the faintest galaxies to the atmosphere characterization on Hot Jupiters. 
+During my undergraduate career, I have been involved with research projects in a variety of astronomical fields, spanning from mining the faintest galaxies to the atmosphere characterization on Hot Jupiters. 
 
 Thanks to my research experience, I have been working on various datasets, like [DELVE](https://datalab.noirlab.edu/delve/), [WOCS](https://www.astro.wisc.edu/research/research-areas/stars-stellar-systems/wocs/), and [JWST Cycle 2 data](https://www.stsci.edu/jwst/phase2-public/3969.pdf). I also learned some useful statistical tools for astrophysics along the way, like [unsupervised clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering), [rejection/MCMC sampling](https://thejoker.readthedocs.io/en/latest/index.html), and [atmospheric retrievals with nested sampling](https://poseidon-retrievals.readthedocs.io/en/latest/index.html#).
 
 I am interested in continuing my research career in graduate school. I enjoy using modern statistical tools to solve astrophysical problems. I have been working on ultra-faint dwarf galaxies (UFD), blue straggler stars (BSS), and hot Jupiters, but I would love to explore more astronomical fields, like AGN, ISM, quasars, etc. 
 
-If you are interested in learning about my research or simply chatting about science in general, please don't hesitate to email me (panpi@umich.edu). 
+If you are interested in learning about my research or simply chatting about science in general, please don't hesitate to email me (**panpi@umich.edu**). 
 
 
 

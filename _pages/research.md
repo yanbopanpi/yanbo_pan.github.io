@@ -87,9 +87,7 @@ To further this project, I hope to introduce other types of stars (MS, BSS) into
 ### 05/2024 - Present
 
 
-In this study, we re-analyze the kinematic data from ultra-faint galaxy Pegasus IV and Pegasus III. These two galaxies are satellites of the Milky Way and are among the faintest known stellar systems. Using the Keck DEIMOS spectrograph, we analyze the spectrum of individual stars and deliberate select members stars of these two galaxies. We then obtain velocity dispersion, masses estimates, and mass to light ratios of these two galaxies, and compare these information with other similarly faint systems. 
-
-Results coming soon
+Abstract: Ultra-faint dwarf (UFD) satellite galaxies are believed to have the oldest, most dark-matter dominated, and least chemically evolved stellar populations (Simon 2019). Therefore, UFDs serve as effective cosmological probes for the early Universe and are pristine laboratories for dark matter physics. In this study, we analyze resolved stars of two Milky Way satellite galaxies, Pegasus 3 and Pegasus 4, to provide more precise and accurate measurements of their velocity dispersion, dynamical masses, and mass to light ratios compared to previous studies (Cerny et al. 2023a; Kim et al. 2016). We first select member stars within these two galaxies using radial velocity, proper motion, equivalent width, and color & magnitude measurements. With these selected member stars’ radial velocity measurements, we apply a customized MCMC procedure to fit for their systematic velocity and velocity dispersion, which gives us their dynamical mass estimates (Walker et al. 2006; Wolf et al. 2010; Foreman-Mackey et al. 2013). We reconfirm and conclude these two systems are dark matter dominated dwarf galaxies by comparing them with other similarly faint stellar systems. This work offers us more accurate dynamical mass estimates of Peg 3 & 4 with more spectroscopically selected member stars.
 
   
 

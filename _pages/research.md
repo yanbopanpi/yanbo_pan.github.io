@@ -63,7 +63,7 @@ Through this research experience, I learned about rejection and MCMC sampling. E
 *image credit: Aaron Geller*
 
 
-## Ultra-faint dwarf satellite search 🌌
+## Mining Ultra-Faint Galaxies in the Local Group 🌌
 ### Advisor: [Eric Bell](https://sites.lsa.umich.edu/ericbell/)
 ### 01/2023 - 05/2024
 ![star_galaxy](https://yanbopanpi.github.io/yanbo_pan.github.io//images/star_galaxy_classification.png){: .align-right width="450px"}

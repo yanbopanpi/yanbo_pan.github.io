@@ -46,15 +46,12 @@ Ultra-faint dwarf (UFD) satellite galaxies are believed to have the oldest, most
 ![BSS_HR](https://yanbopanpi.github.io/yanbo_pan.github.io//images/BSS_HR.png){: style="width: 50%; max-width: 450px; height: auto; float: right;"}
 Blue Straggler Stars (BSS) are believed to have originated from binary star interactions. Therefore, modeling binary orbits is crucial for understanding their formation and evolution. In this study, we applied The Joker (a Monte Carlo rejection sampler) to model binary orbits in the WIYN Open Cluster Survey (WOCS). Our objective was to evaluate The Joker’s efficacy on binaries with ample radial-velocity data (RVD). Exploring the potential usage of The Joker, designed for sparsely measured radial velocities, we applied it to known single-lined binary orbits in M67 and NGC 188. With 70+ binary systems, we compared our Joker orbital parameters among binaries having a diverse array of period-eccentricity combinations (Geller et al. 2021). We found that 5-7 RVD start to meaningfully constrain orbital parameters, and 8-10 RVD are required for unimodal period solutions with eccentricities converging to previous studies’ solutions. Additionally, we explored the possibility of devising observing plans having limited prior measurements with The Joker predicting possible periastron approach times to constrain eccentricity. This work enables us to estimate binary orbital solutions with fewer RVD and to enhance our understanding of the alternative evolutionary tracks of binary systems.
 
-For our future work, we will fit more binary solutions for WD-MS binaries, while improving the pipeline to better suit observation plans and reduce bias our priors might introduce. This study is also used to design future observation plans to break the degeneracies between possible orbits. 
+![binary_demo](https://yanbopanpi.github.io/yanbo_pan.github.io//images/binary_demo.jpg){: style="width: 50%; max-width: 450px; height: auto; float: left;"}
+For our future work, we will fit more binary solutions for WD-MS binaries, while improving the pipeline to better suit observation plans and reduce bias our priors might introduce. This study is also used to design future observation plans to break the degeneracies between possible orbits. *image credit: Aaron Geller* 
 <!---
 Through this research experience, I learned about rejection and MCMC sampling. Exposed to time-series radial-velocity data for the first time, I designed a custom pipeline that allows statistical comparison between our results and previous scientific results done by [Aaron M. Geller](https://arxiv.org/abs/2101.07883). I also become more familiar with using cloud computing and virtual machines. 
 !--->
-![binary_demo](https://yanbopanpi.github.io/yanbo_pan.github.io//images/binary_demo.jpg){: style="width: 50%; max-width: 450px; height: auto; float: left;"}
-*image credit: Aaron Geller*
 
-
-<br>
 
 ## Mining Ultra-Faint Galaxies in the Local Group 🌌
 ### Advisor: [Eric Bell](https://sites.lsa.umich.edu/ericbell/)

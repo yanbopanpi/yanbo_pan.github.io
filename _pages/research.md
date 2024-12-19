@@ -54,6 +54,7 @@ Through this research experience, I learned about rejection and MCMC sampling. E
 *image credit: Aaron Geller*
 
 
+<br>
 ## Mining Ultra-Faint Galaxies in the Local Group 🌌
 ### Advisor: [Eric Bell](https://sites.lsa.umich.edu/ericbell/)
 ### 01/2023 - 05/2024

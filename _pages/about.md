@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome to My Website
 
-Greetings! I'm Yanbo Pan, an undergraduate student studying Astrophysics and Statistics at the University of Michigan - Ann Arbor. My academic journey has been shaped by my passion for exploring the universe and building a solid foundation in scientific thinking. 🌌⭐🪐
+Greetings! I'm Yanbo Pan, an undergraduate student studying Astrophysics and Statistics at the University of Michigan - Ann Arbor. 🌌⭐🪐
 
 ## Research Interests
 - Observational Near-Field Cosmology

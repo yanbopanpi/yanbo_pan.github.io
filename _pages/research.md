@@ -10,14 +10,14 @@ redirect_from:
 
 # Welcome to My Research Website! 👋
 
-During my undergraduate career, I have participated in research projects, spanning from characterizing the atmospheres of Hot Jupiters to mining and analyzing some of the faintest galaxies. Thanks to these experiences, I have worked with diverse datasets, such as [DELVE](https://datalab.noirlab.edu/delve/), [WOCS](https://www.astro.wisc.edu/research/research-areas/stars-stellar-systems/wocs/), and [JWST transit data](https://www.stsci.edu/jwst/phase2-public/3969.pdf). Along the way, I also learned some useful statistical tools for astrophysics, like:
+During my undergraduate career, I have participated in research projects spanning from characterizing the atmospheres of Hot Jupiters to mining and analyzing some of the faintest galaxies. Thanks to these experiences, I have worked with diverse datasets, such as [DELVE](https://datalab.noirlab.edu/delve/), [WOCS](https://www.astro.wisc.edu/research/research-areas/stars-stellar-systems/wocs/), and [JWST transit data](https://www.stsci.edu/jwst/phase2-public/3969.pdf). Along the way, I also learned some useful statistical tools for astrophysics, like:
 - [Unsupervised clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering)
 - [Rejection sampling](https://thejoker.readthedocs.io/en/latest/index.html)
 - [Atmospheric retrievals with nested sampling](https://poseidon-retrievals.readthedocs.io/en/latest/index.html#)
 
-I am interested in continuing my research journey in graduate school. I enjoy using modern statistical tools to answer astrophysical problems. My current work spans ultra-faint dwarf galaxies (UFDs), blue straggler stars (BSSs), and Hot Jupiters. However, I would love to explore more astronomical fields, like gravitational lensing, ISM, and beyond. 
+I look forward to continuing my research journey in graduate school. I enjoy using modern statistical tools to answer astrophysical problems. My current work spans ultra-faint dwarf galaxies (UFDs), blue straggler stars (BSSs), and Hot Jupiters. However, I would love to explore more astronomical fields, like gravitational lensing, ISM, and beyond. 
 
-If you are interested in learning about my research or simply chatting about science in general, please don't hesitate to email me at **panpi@umich.edu**.  I’d love to connect!
+If you are interested in learning about my research or simply chatting about science in general, please don't hesitate to email me at **panpi@umich.edu**.  I would love to connect!
 
 
 ## Hot Jupiter multi-dimensional atmospheric modeling 🪐
@@ -46,10 +46,12 @@ Ultra-faint dwarf (UFD) satellite galaxies are believed to have the oldest, most
 ![BSS_HR](https://yanbopanpi.github.io/yanbo_pan.github.io//images/BSS_HR.png){: style="width: 50%; max-width: 450px; height: auto; float: right;"}
 Blue Straggler Stars (BSS) are believed to have originated from binary star interactions. Therefore, modeling binary orbits is crucial for understanding their formation and evolution. In this study, we applied The Joker (a Monte Carlo rejection sampler) to model binary orbits in the WIYN Open Cluster Survey (WOCS). Our objective was to evaluate The Joker’s efficacy on binaries with ample radial-velocity data (RVD). Exploring the potential usage of The Joker, designed for sparsely measured radial velocities, we applied it to known single-lined binary orbits in M67 and NGC 188. With 70+ binary systems, we compared our Joker orbital parameters among binaries having a diverse array of period-eccentricity combinations (Geller et al. 2021). We found that 5-7 RVD start to meaningfully constrain orbital parameters, and 8-10 RVD are required for unimodal period solutions with eccentricities converging to previous studies’ solutions. Additionally, we explored the possibility of devising observing plans having limited prior measurements with The Joker predicting possible periastron approach times to constrain eccentricity. This work enables us to estimate binary orbital solutions with fewer RVD and to enhance our understanding of the alternative evolutionary tracks of binary systems.
 
-![binary_demo](https://yanbopanpi.github.io/yanbo_pan.github.io//images/binary_demo.jpg){: style="width: 50%; max-width: 450px; height: auto; float: left;"}
-For our future work, we will fit more binary solutions for WD-MS binaries, while improving the pipeline to better suit observation plans and reduce bias our priors might introduce. This study is also used to design future observation plans to break the degeneracies between possible orbits. *image credit: Aaron Geller* 
+For our future work, we will fit more binary solutions for WD-MS binaries, while improving the pipeline to better suit observation plans and reduce bias our priors might introduce. This study is also used to design future observation plans to break the degeneracies between possible orbits. 
+
 <!---
 Through this research experience, I learned about rejection and MCMC sampling. Exposed to time-series radial-velocity data for the first time, I designed a custom pipeline that allows statistical comparison between our results and previous scientific results done by [Aaron M. Geller](https://arxiv.org/abs/2101.07883). I also become more familiar with using cloud computing and virtual machines. 
+![binary_demo](https://yanbopanpi.github.io/yanbo_pan.github.io//images/binary_demo.jpg){: style="width: 50%; max-width: 450px; height: auto; float: left;"}
+*image credit: Aaron Geller* 
 !--->
 
 
@@ -62,7 +64,7 @@ By analyzing the stellar spatial distribution, we try to search for potential ul
 !--->
 Ultra-faint dwarf (UFD) satellite galaxies are believed to have the oldest, most dark-matter-dominated, and least chemically evolved stellar populations. Therefore, UFDs serve as effective cosmological probes for the early stage of the Universe. In this study, we applied unsupervised machine learning (DBSCAN & OPTICS) to search for potential UFDs by analyzing spatial overdensities of the tip of red giant branch (TRGB) stars in the DELVE survey. 
 
-![AndXXIX](https://yanbopanpi.github.io/yanbo_pan.github.io//images/AndXXIX.png){: style="width: 50%; max-width: 450px; height: auto; float: left;"}
+![AndXXIX](https://yanbopanpi.github.io/yanbo_pan.github.io//images/AndXXIX.png){: style="width: 35%; max-width: 450px; height: auto; float: left;"}
 <!---
 After devising the pipeline with DBSCAN, we also tried using HDBSCAN and OPTICS to test which unsupervised machine learning method yielded the best result for the UFD search. Finally, OPTICS is chosen since it recovers several UFDs of M31 with the least number of false positives. During this project, we also explore the star-galaxy separation criteria in the DELVE survey. The tip of the red giant branch selection criteria is modified based on the star-galaxy separation magnitude limit. 
 !--->

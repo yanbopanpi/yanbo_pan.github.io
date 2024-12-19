@@ -8,22 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-Greetings, I'm Yanbo Pan, an astrophysics and statistics undergraduate currently studying at the University of Michigan Ann-Arbor. My journey so far has led me to explore the universe and develop a strong foundation in scientific thinking. 🌌⭐🪐
+# Welcome to My Website
 
-## Research Interests:
-- Local group ultra-faint dwarf (UFD) galaxies search and characterization
-- Alternative evolution pathways for binary stars by orbit modeling
-- Hot Jupiter atmospheric characterization and retrieval
-- Bayesian statistics applications on Astrophysics
+Greetings! I'm Yanbo Pan, an undergraduate student studying Astrophysics and Statistics at the University of Michigan - Ann Arbor. My academic journey has been shaped by my passion for exploring the universe and building a solid foundation in scientific thinking. 🌌⭐🪐
 
-  [Click here](https://yanbopanpi.github.io/yanbo_pan.github.io//publications/) to view my research in detail
+## Research Interests
+- Observational Near-Field Cosmology
+- Ultra-faint Dwarf Galaxies
+- Hot Jupiter Atmospheric Characterization
+- Statistical and Computational Applications on Astrophysics
 
+[Click here](https://yanbopanpi.github.io/yanbo_pan.github.io//publications/) to learn more about my research.
 
-## Personal:
-![running pics](https://yanbopanpi.github.io/yanbo_pan.github.io//images/marathon.jpg){: .align-right width="320px"}
-I am from [Ningbo](https://en.wikipedia.org/wiki/Ningbo), a "small" coastal city in the southeastern part of China. I first went to the University of Wisconsin-Madison 🦡, and I spent my first year of college on the beautiful lakeshore of [Lake Mendota](https://lakeshorepreserve.wisc.edu/visit/places/lake-mendota/). Apparently, I *liked* the weather so much that I transferred to the University of Michigan-Ann Arbor ☃️ to finish my undergraduate studies.
+## About Me
 
-Outside my research life, I enjoy distance running🏃‍♂️, playing table tennis🏓, and kayaking on the Huron River🚣‍♂️. If the weather is good, I will run through [the Arb](https://mbgna.umich.edu/nichols-arboretum/) after all my classes. I also enjoy going to the [State Theatre](https://michtheater.org/) and enjoying movies and shows with friends.  
+![Running Picture](https://yanbopanpi.github.io/yanbo_pan.github.io//images/marathon.jpg){: .align-right width="320px"}
 
+I am from [Ningbo](https://en.wikipedia.org/wiki/Ningbo), a vibrant coastal city in southeastern China. My academic path began at the University of Wisconsin-Madison 🦡, where I spent my first year studying along the picturesque shores of [Lake Mendota](https://lakeshorepreserve.wisc.edu/visit/places/lake-mendota/). Afterward, I transferred to the University of Michigan - Ann Arbor ☃️ to complete my undergraduate studies.
 
+Outside of academics and research, I enjoy:
+- Distance running 🏃‍♂️
+- Playing table tennis 🏓
+- Kayaking on the Huron River 🚣‍♂️
 
+When the weather is pleasant, you’ll often find me running through [the Arb](https://mbgna.umich.edu/nichols-arboretum/) after classes. I also love visiting the [State Theatre](https://michtheater.org/) to enjoy movies and shows with friends.

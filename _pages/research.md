@@ -8,14 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to my research website! 👋
-During my undergraduate career, I have been involved with research projects in a variety of astronomical subfields, spanning from the characterizing Hot Jupiters' atmosphere to mining some of the faintest galaxies. 
+# Welcome to My Research Website! 👋
 
-Thanks to my research experience, I have been working on various datasets, like [DELVE](https://datalab.noirlab.edu/delve/), [WOCS](https://www.astro.wisc.edu/research/research-areas/stars-stellar-systems/wocs/), and [JWST Cycle 2 data](https://www.stsci.edu/jwst/phase2-public/3969.pdf). I also learned some useful statistical tools for astrophysics along the way, like [unsupervised clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering), [rejection/MCMC sampling](https://thejoker.readthedocs.io/en/latest/index.html), and [atmospheric retrievals with nested sampling](https://poseidon-retrievals.readthedocs.io/en/latest/index.html#).
+During my undergraduate career, I have participated in research projects across various astronomical subfields, spanning from characterizing the atmospheres of Hot Jupiters to mining and analyzing some of the faintest galaxies. 
 
-I am interested in continuing my research career in graduate school. I enjoy using modern statistical tools to answer astrophysical problems. I have been working on ultra-faint dwarf galaxies (UFD), blue straggler stars (BSS), and hot Jupiters, but I would love to explore more astronomical fields, like AGN, ISM, quasars, etc. 
+Through these experiences, I have worked with diverse datasets, such as [DELVE](https://datalab.noirlab.edu/delve/), [WOCS](https://www.astro.wisc.edu/research/research-areas/stars-stellar-systems/wocs/), and [JWST transit data](https://www.stsci.edu/jwst/phase2-public/3969.pdf). Along the way, I also learned some useful statistical tools for astrophysics, including:
+- [Unsupervised clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering)
+- [Rejection/MCMC sampling](https://thejoker.readthedocs.io/en/latest/index.html)
+- [Atmospheric retrievals with nested sampling](https://poseidon-retrievals.readthedocs.io/en/latest/index.html#)
 
-If you are interested in learning about my research or simply chatting about science in general, please don't hesitate to email me (**panpi@umich.edu**). 
+I am interested in continuing my research journey in graduate school. I enjoy using modern statistical tools to answer astrophysical problems. My current work spans ultra-faint dwarf galaxies (UFDs), blue straggler stars (BSSs), and Hot Jupiters. However, I would love to explore more astronomical fields, like gravitational lensing, ISM, and beyond. 
+
+If you are interested in learning about my research or simply chatting about science in general, please don't hesitate to email me at **panpi@umich.edu**.  I’d love to connect!
+
 
 
 
@@ -34,14 +39,10 @@ We observed the hot Jupiter WASP-52b with JWST as part of a Cycle 2 Program aimi
 2. Identify whether a 2D atmospheric model is preferred over a 1D model, and if so, quantify differences between the morning and evening terminators (west and east). (**ongoing**)
 3. Investigate and correct for the influence of unocculted starspots on WASP-52b’s JWST transmission spectrum. (**ongoing**)
 
-Stellar inhomogeneities (unocculted starspots or faculae) are believed to influence exoplanet transmission spectroscopy. Therefore, modeling and retrieving stellar features is crucial for understanding the exoplanet’s atmospheric properties. In this study, we apply atmospheric retrievals on the optical to infrared (0.6–2.7 μm) transmission spectrum of the hot Jupiter WASP-52b observed by JWST NIRISS/SOSS instruments. Our objective is to measure its atmospheric chemical composition and study the influence of unocculted stellar features on the transmission spectrum using POSEIDON (a Bayesian atmospheric retrieval algorithm). Since WASP-52b presents significant stellar features and starspot crossing events during the transit, we introduce unocculted starspot or facula (fraction, temperature, and surface gravity as free parameters) in the retrieval process. This work allows us to establish constraints on WASP-52b’s planetary atmosphere and the stellar feature of its host star. _We are close to understand WASP-52's stellar features and results are coming soon_.
-_Limb asymmetry analysis results coming soon_
+Unocculted stellar contamination (starspots or faculae) can strongly influence exoplanet transmission spectroscopy. Therefore, incorporating these stellar active regions into atmospheric retrieval algorithms is crucial for reliably inferring exoplanet atmosphere properties.
 
-<!---
-Please check the awesome [exoplanet travel bureau](https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/) graphics 
-![JWST](https://yanbopanpi.github.io/yanbo_pan.github.io//images/JWST.jpg){: .align-left width="300px"}\
-*image credit: NASA/JPL-Caltech*  
-!--->
+We recently observed a hot Jupiter orbiting a highly active star, WASP-52b, with JWST to directly test methods to disentangle stellar inhomogeneities from planetary atmospheric features. I will present the full optical to near-infrared (0.6-5.2 μm) transmission spectrum of WASP-52b from two JWST transits, one with NIRISS/SOSS and one with NIRSpec G395H. Since our WASP-52b transmission spectra are strongly sculpted by both occulted starspot crossing events during the transit and unocculted active regions, we incorporate starspots and faculae into our retrieval analysis. I will present our detailed constraints on the chemical inventory and aerosol properties of WASP-52b’s atmosphere, demonstrating strategies to overcome stellar contamination of transmission spectra. _We are close to understand WASP-52's stellar features and results are coming soon_.
+
 
 
 ## Alternative evolutionary pathway for stellar population by orbit modeling ⭐

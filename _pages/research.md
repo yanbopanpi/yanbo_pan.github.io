@@ -43,14 +43,14 @@ Ultra-faint dwarf (UFD) satellite galaxies are believed to have the oldest, most
 ### Advisor: [Robert Mathieu](https://www.astro.wisc.edu/?uw_staff=mathieu-robert)
 ### Started 05/2023 - 06/2024
 ### [Astrobites](https://astrobites.org/2024/07/03/ur-blue-stars-that-should-not-exist/)
-![BSS_HR](https://yanbopanpi.github.io/yanbo_pan.github.io//images/BSS_HR.png){: style="width: 30%; max-width: 450px; height: auto; float: right;"}
+![BSS_HR](https://yanbopanpi.github.io/yanbo_pan.github.io//images/BSS_HR.png){: style="width: 50%; max-width: 450px; height: auto; float: right;"}
 Blue Straggler Stars (BSS) are believed to have originated from binary star interactions. Therefore, modeling binary orbits is crucial for understanding their formation and evolution. In this study, we applied The Joker (a Monte Carlo rejection sampler) to model binary orbits in the WIYN Open Cluster Survey (WOCS). Our objective was to evaluate The Joker’s efficacy on binaries with ample radial-velocity data (RVD). Exploring the potential usage of The Joker, designed for sparsely measured radial velocities, we applied it to known single-lined binary orbits in M67 and NGC 188. With 70+ binary systems, we compared our Joker orbital parameters among binaries having a diverse array of period-eccentricity combinations (Geller et al. 2021). We found that 5-7 RVD start to meaningfully constrain orbital parameters, and 8-10 RVD are required for unimodal period solutions with eccentricities converging to previous studies’ solutions. Additionally, we explored the possibility of devising observing plans having limited prior measurements with The Joker predicting possible periastron approach times to constrain eccentricity. This work enables us to estimate binary orbital solutions with fewer RVD and to enhance our understanding of the alternative evolutionary tracks of binary systems.
 
 For our future work, we will fit more binary solutions for WD-MS binaries, while improving the pipeline to better suit observation plans and reduce bias our priors might introduce. This study is also used to design future observation plans to break the degeneracies between possible orbits. 
 <!---
 Through this research experience, I learned about rejection and MCMC sampling. Exposed to time-series radial-velocity data for the first time, I designed a custom pipeline that allows statistical comparison between our results and previous scientific results done by [Aaron M. Geller](https://arxiv.org/abs/2101.07883). I also become more familiar with using cloud computing and virtual machines. 
 !--->
-![binary_demo](https://yanbopanpi.github.io/yanbo_pan.github.io//images/binary_demo.jpg){: style="width: 100%; max-width: 450px; height: auto; float: left;"}
+![binary_demo](https://yanbopanpi.github.io/yanbo_pan.github.io//images/binary_demo.jpg){: style="width: 50%; max-width: 450px; height: auto; float: left;"}
 *image credit: Aaron Geller*
 
 
@@ -59,13 +59,13 @@ Through this research experience, I learned about rejection and MCMC sampling. E
 ## Mining Ultra-Faint Galaxies in the Local Group 🌌
 ### Advisor: [Eric Bell](https://sites.lsa.umich.edu/ericbell/)
 ### 01/2023 - 05/2024
-![star_galaxy](https://yanbopanpi.github.io/yanbo_pan.github.io//images/star_galaxy_classification.png){: style="width: 35%; max-width: 450px; height: auto; float: right;"}
+![star_galaxy](https://yanbopanpi.github.io/yanbo_pan.github.io//images/star_galaxy_classification.png){: style="width: 50%; max-width: 450px; height: auto; float: right;"}
 <!---
 By analyzing the stellar spatial distribution, we try to search for potential ultra-faint dwarf (UFD) galaxies of M31 by examining stellar overdensities within the DELVE survey. We attempt to search for overdensities for horizontal branch (HB) and red giant branch stars (RGB) using Density-Based Spatial Clustering of Applications with Noise (DBSCAN). We first focused on Pegasus IV dwarf galaxy and its stellar population as a guide for designing our overdensity search pipeline. With the detected overdensities on the color-magnitude diagram, we also explore the stellar overdensities regarding their spatial distribution. 
 !--->
 Ultra-faint dwarf (UFD) satellite galaxies are believed to have the oldest, most dark-matter-dominated, and least chemically evolved stellar populations. Therefore, UFDs serve as effective cosmological probes for the early stage of the Universe. In this study, we applied unsupervised machine learning (DBSCAN & OPTICS) to search for potential UFDs by analyzing spatial overdensities of the tip of red giant branch (TRGB) stars in the DELVE survey. 
 
-![AndXXIX](https://yanbopanpi.github.io/yanbo_pan.github.io//images/AndXXIX.png){: style="width: 100%; max-width: 450px; height: auto; float: left;"}
+![AndXXIX](https://yanbopanpi.github.io/yanbo_pan.github.io//images/AndXXIX.png){: style="width: 50%; max-width: 450px; height: auto; float: left;"}
 <!---
 After devising the pipeline with DBSCAN, we also tried using HDBSCAN and OPTICS to test which unsupervised machine learning method yielded the best result for the UFD search. Finally, OPTICS is chosen since it recovers several UFDs of M31 with the least number of false positives. During this project, we also explore the star-galaxy separation criteria in the DELVE survey. The tip of the red giant branch selection criteria is modified based on the star-galaxy separation magnitude limit. 
 !--->

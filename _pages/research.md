@@ -12,9 +12,9 @@ redirect_from:
 
 During my undergraduate career, I have participated in research projects across various astronomical subfields, spanning from characterizing the atmospheres of Hot Jupiters to mining and analyzing some of the faintest galaxies. 
 
-Through these experiences, I have worked with diverse datasets, such as [DELVE](https://datalab.noirlab.edu/delve/), [WOCS](https://www.astro.wisc.edu/research/research-areas/stars-stellar-systems/wocs/), and [JWST transit data](https://www.stsci.edu/jwst/phase2-public/3969.pdf). Along the way, I also learned some useful statistical tools for astrophysics, including:
+Through these experiences, I have worked with diverse datasets, such as [DELVE](https://datalab.noirlab.edu/delve/), [WOCS](https://www.astro.wisc.edu/research/research-areas/stars-stellar-systems/wocs/), and [JWST transit data](https://www.stsci.edu/jwst/phase2-public/3969.pdf). Along the way, I also learned some useful statistical tools for astrophysics, like:
 - [Unsupervised clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering)
-- [Rejection/MCMC sampling](https://thejoker.readthedocs.io/en/latest/index.html)
+- [Rejection sampling](https://thejoker.readthedocs.io/en/latest/index.html)
 - [Atmospheric retrievals with nested sampling](https://poseidon-retrievals.readthedocs.io/en/latest/index.html#)
 
 I am interested in continuing my research journey in graduate school. I enjoy using modern statistical tools to answer astrophysical problems. My current work spans ultra-faint dwarf galaxies (UFDs), blue straggler stars (BSSs), and Hot Jupiters. However, I would love to explore more astronomical fields, like gravitational lensing, ISM, and beyond. 
@@ -67,7 +67,7 @@ Through this research experience, I learned about rejection and MCMC sampling. E
 ## Mining Ultra-Faint Galaxies in the Local Group 🌌
 ### Advisor: [Eric Bell](https://sites.lsa.umich.edu/ericbell/)
 ### 01/2023 - 05/2024
-![star_galaxy](https://yanbopanpi.github.io/yanbo_pan.github.io//images/star_galaxy_classification.png){: .align-right width="450px"}
+![star_galaxy](https://yanbopanpi.github.io/yanbo_pan.github.io//images/star_galaxy_classification.png){: style="width: 35%; max-width: 450px; height: auto; float: right;"}
 <!---
 By analyzing the stellar spatial distribution, we try to search for potential ultra-faint dwarf (UFD) galaxies of M31 by examining stellar overdensities within the DELVE survey. We attempt to search for overdensities for horizontal branch (HB) and red giant branch stars (RGB) using Density-Based Spatial Clustering of Applications with Noise (DBSCAN). We first focused on Pegasus IV dwarf galaxy and its stellar population as a guide for designing our overdensity search pipeline. With the detected overdensities on the color-magnitude diagram, we also explore the stellar overdensities regarding their spatial distribution. 
 !--->

@@ -21,7 +21,7 @@ If you are interested in learning about my research or simply chatting about sci
 
 ## Kinematics of ultra-faint dwarf galaxies 🌌
 ### Advisor: [Marla Geha](http://www.astro.yale.edu/mgeha/)
-### 05/2024 - Present
+### 05/2024 - 08/2024
 
 Ultra-faint dwarf (UFD) satellite galaxies are believed to have the oldest, most dark-matter dominated, and least chemically evolved stellar populations (Simon 2019). Therefore, UFDs serve as effective cosmological probes for the early Universe and are pristine laboratories for dark matter physics. In this study, we analyze resolved stars of two Milky Way satellite galaxies, Pegasus 3 and Pegasus 4, to provide more precise and accurate measurements of their velocity dispersion, dynamical masses, and mass to light ratios compared to previous studies (Cerny et al. 2023a; Kim et al. 2016). We first select member stars within these two galaxies using radial velocity, proper motion, equivalent width, and color & magnitude measurements. With these selected member stars’ radial velocity measurements, we apply a customized MCMC procedure to fit for their systematic velocity and velocity dispersion, which gives us their dynamical mass estimates (Walker et al. 2006; Wolf et al. 2010; Foreman-Mackey et al. 2013). We reconfirm and conclude these two systems are dark matter dominated dwarf galaxies by comparing them with other similarly faint stellar systems. This work offers us more accurate dynamical mass estimates of Peg 3 & 4 with more spectroscopically selected member stars.
 
@@ -46,7 +46,7 @@ Please check the awesome [exoplanet travel bureau](https://exoplanets.nasa.gov/a
 
 ## Alternative evolutionary pathway for stellar population by orbit modeling ⭐
 ### Advisor: [Robert Mathieu](https://www.astro.wisc.edu/?uw_staff=mathieu-robert)
-### Started 05/2023 - Present
+### Started 05/2023 - 06/2024
 ### [Astrobites](https://astrobites.org/2024/07/03/ur-blue-stars-that-should-not-exist/)
 ![BSS_HR](https://yanbopanpi.github.io/yanbo_pan.github.io//images/BSS_HR.png){: .align-right width="400px"}
 
@@ -76,7 +76,7 @@ Ultra-faint dwarf (UFD) satellite galaxies are believed to have the oldest, most
 <!---
 After devising the pipeline with DBSCAN, we also tried using HDBSCAN and OPTICS to test which unsupervised machine learning method yielded the best result for the UFD search. Finally, OPTICS is chosen since it recovers several UFDs of M31 with the least number of false positives. During this project, we also explore the star-galaxy separation criteria in the DELVE survey. The tip of the red giant branch selection criteria is modified based on the star-galaxy separation magnitude limit. 
 !--->
-Our objective is to complement the current catalog of UFDs in the local volume while exploring the potential of using modern statistical density searching tools in UFD studies. We have focused on searching for M31 UFDs and recovered all 10 M31 satellite galaxies in the DELVE DR2 coverage. This work provides tools to identify UFDs in large sky surveys, which helps to test the cosmological constraints of the Lambda Cold Dark Matter (ΛCDM ) model.
+Our objective is to complement the current catalog of UFDs in the local volume while exploring the potential of using modern statistical density searching tools in UFD studies. We have focused on searching for M31 UFDs and recovered all 10 M31 satellite galaxies in the DELVE DR2 coverage. This work provides tools to identify UFDs in large sky surveys, which helps to test the cosmological constraints of the Lambda Cold Dark Matter (ΛCDM) model.
 
 <!---
 Through this experience, I learned about unsupervised machine learning algorithms by dealing with large survey data. I also have a taste of astrostatistics and designed my own SQL query throughout this project. 

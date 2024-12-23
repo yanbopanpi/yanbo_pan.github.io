@@ -23,8 +23,3 @@ Thanks to [academicpages](https://github.com/academicpages/academicpages.github.
 
 ![Friends](https://yanbopanpi.github.io/yanbo_pan.github.io//images/Friend_Collage.png)
 
-
-<!--- ![Bob](https://yanbopanpi.github.io/yanbo_pan.github.io//images/UW_memory.jpg){: .align-left width="420px"}
-![Eric](https://yanbopanpi.github.io/yanbo_pan.github.io//images/Bell.jpg){: .align-left width="480px"}
-![Eric](https://yanbopanpi.github.io/yanbo_pan.github.io//images/Waterfall_pic_2.jpg){: .align-left width="480px"}
-![Ryan_P](https://yanbopanpi.github.io/yanbo_pan.github.io//images/Ryan_P_pics.jpg){: .align-left width="380px"} ---!>

@@ -7,15 +7,22 @@ redirect_from:
   - /markdown.html
 ---
 
-您好，我是一名[密歇根大学安娜堡分校](https://umich.edu/)在读本科生,专业为[天文物理](https://lsa.umich.edu/astro)与[统计](https://lsa.umich.edu/stats)，预计将于2025年5月毕业，计划2025年秋季开始我的研究生学习。我的导师是[Robert Mathieu](https://mywcerlegacy.wceruw.org/Content/CVs/824-MathieuRobert.pdf)教授,[Eric Bell](https://sites.lsa.umich.edu/ericbell/)教授,[Marla Geha](http://www.astro.yale.edu/mgeha/)教授和[Ryan MacDonald](https://distantworlds.space/) Sagan Fellow。在此之前，我在浙江宁波完成了我的中学学业。
+您好！我是[密歇根大学安娜堡分校](https://umich.edu/)的一名本科生，主修[天文物理](https://lsa.umich.edu/astro)与[统计](https://lsa.umich.edu/stats)。我预计将在2025年5月毕业，并计划于2025年秋季开始攻读研究生学位。
 
-我的本科研究项目涉及寻找超微弱矮星系（UFD）并分析其动力学，模拟白矮星-主序星（WD-MS）双星轨道，以及对于热木星（HJ）进行大气模拟。我致力于利用统计学模型（无监督学习，马尔可夫链蒙特卡洛，拒绝采样，多重嵌套抽样）解决天文课题。
+目前，我的导师包括 [Robert Mathieu](https://mywcerlegacy.wceruw.org/Content/CVs/824-MathieuRobert.pdf) 教授、[Eric Bell](https://sites.lsa.umich.edu/ericbell/) 教授、[Marla Geha](http://www.astro.yale.edu/mgeha/) 教授和 [Ryan MacDonald](https://distantworlds.space/) Sagan Fellow。在此之前，我在中国浙江宁波完成了中学学业。
 
-如果您对我的研究感兴趣，欢迎随时给我发电子邮件（panpi@umich.edu）。
+在本科期间，我的研究项目涵盖以下几个方向：
+- 寻找超微弱矮星系（UFD）并分析其动力学特性  
+- 模拟白矮星-主序星（WD-MS）双星的轨道  
+- 对热木星（HJ）进行大气建模和模拟  
 
-科研详情请[点击此处](https://yanbopanpi.github.io/yanbo_pan.github.io//publications/)
-\
-个人简历请[点击此处](https://yanbopanpi.github.io/yanbo_pan.github.io//files/Yanbo_Pan_Resume.pdf)
+我热衷于利用统计学模型（如无监督学习、马尔可夫链蒙特卡洛、拒绝采样、多重嵌套抽样）来解决天文领域的科研问题。
+
+如果您对我的研究感兴趣，欢迎随时通过电子邮件与我联系：**panpi@umich.edu**。
+
+- 如需了解我的科研详情，请[点击此处](https://yanbopanpi.github.io/yanbo_pan.github.io//publications/)。  
+- 如需查看我的个人简历，请[点击此处](https://yanbopanpi.github.io/yanbo_pan.github.io//files/Yanbo_Pan_Resume.pdf)。
+
 
 <!---
 ## Locations of key files/directories

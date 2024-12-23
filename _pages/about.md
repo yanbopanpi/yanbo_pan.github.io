@@ -24,7 +24,7 @@ Greetings! I'm Yanbo Pan, an undergraduate student studying Astrophysics and Sta
 
 ![Running Picture](https://yanbopanpi.github.io/yanbo_pan.github.io//images/marathon.jpg){: .align-right width="320px"}
 
-I am from [Ningbo](https://en.wikipedia.org/wiki/Ningbo), a vibrant coastal city in southeastern China. My academic path began at the University of Wisconsin-Madison 🦡, where I spent my first year studying along the picturesque shores of [Lake Mendota](https://lakeshorepreserve.wisc.edu/visit/places/lake-mendota/). Afterward, I transferred to the University of Michigan - Ann Arbor ☃️ to complete my undergraduate studies.
+I am from [Ningbo](https://en.wikipedia.org/wiki/Ningbo), a vibrant coastal city in southeastern China. My academic path began at the University of Wisconsin-Madison 🦡, where I spent my first year studying along the picturesque shores of [Lake Mendota](https://lakeshorepreserve.wisc.edu/visit/places/lake-mendota/). I liked the weather so much that I transferred to the University of Michigan - Ann Arbor ☃️ to complete my undergraduate studies.
 
 Outside of academics and research, I enjoy:
 - Distance running 🏃‍♂️

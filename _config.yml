@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yanbo Pan"
   avatar           : "Profile_.jpg"
-  bio              : "Astrophysics & Statistics @ Umich"
-  location         : "Ann Arbor, MI"
+  bio              : "Astrophysics & Statistics @ UVa"
+  location         : "Charlottesville, VA"
   major            : "Astrophysics & Statistics"
-  employer         : "University of Michigan"
+  employer         : "University of Virginia"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            : "panpi@umich.edu"
+  email            : "war8sk@virginia.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :
